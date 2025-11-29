@@ -1,0 +1,4 @@
+# Placeholder Python file for the data quality pipeline.
+# Replace this later with the exported Databricks notebook (.py).
+
+print("Data Quality Pipeline placeholder")

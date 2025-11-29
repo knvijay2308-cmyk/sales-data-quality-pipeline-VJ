@@ -1,0 +1,1 @@
+SQL dashboard screenshots will be stored here.
